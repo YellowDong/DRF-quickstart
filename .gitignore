@@ -1,0 +1,7 @@
+*.vscode
+*.pyc
+*.db
+*.log
+venv
+/.idea
+*.sqlite3
